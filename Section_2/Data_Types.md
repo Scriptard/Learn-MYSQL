@@ -46,7 +46,7 @@ Data types that MySQL supports are :-
 
 
 ---
-Large Object Data  (LOB) Data Types
+# Large Object Data  (LOB) Data Types
 | Data Type Syntax | Maximun Size                 |
 | :--------------- | :------------------------    |
 | TINYBLOB         | Maximun size of 255 bytes.   |

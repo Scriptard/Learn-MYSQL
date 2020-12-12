@@ -20,18 +20,18 @@ Once XAMPP has been successfully installed, the base tables have been initialize
 Now to start the server You can open that XAMPP folder and you can found XAMPP-control.exe there. Run that exe file. 
 
 You wil get this pannel
-![image](./images/xampp-control.png)
+![image](../images/section1-img/xampp-control.png)
 
 * Start Apache Server and MySQL 
 
-![image](./images/server-start.png)
+![image](../images/section1-img/server-start.png)
 
 * Go to the brower and type 
   [http://127.0.0.1/phpmyadmin/](http://127.0.0.1/phpmyadmin/)
 
   and you can see 
 
-  ![image](./images/browser.png)
+  ![image](../images/section1-img/browser.png)
 
   Now you are all set-up. Later on we are going to do it with cmd(terminal in macos and Linux) 
 
