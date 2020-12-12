@@ -8,6 +8,7 @@
 - Data Types
 - Instalation and setup of XAMPP
 - Some Basic SQL queries
+- Exercise
 
 ### Section 3
 - Primary Key and foreign keys
