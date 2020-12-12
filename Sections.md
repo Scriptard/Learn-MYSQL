@@ -5,8 +5,8 @@
  - Features
 
 ## Section 2
-- About databases,SQL and MySQL
-- Instalation ans setup of XAMPP
+- Data Types
+- Instalation and setup of XAMPP
 - Some Basic SQL queries
 
 ### Section 3
